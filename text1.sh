@@ -1,3 +1,3 @@
-#!/bin/bash
-date
-pwd
+Hello, How are You
+
+i am fine
